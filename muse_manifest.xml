@@ -1,0 +1,455 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arise.com" resolutions="1x" timestamp="1561055339121">
+  <folder name="css">
+    <file name="site_global.css" crc="163383709"/>
+    <file name="master_header-footer.css" crc="4010557222" ref="blog:index:member:news:project:group-schedule:gallery:publication"/>
+    <file name="nomq_preview_master_header-footer.css" crc="4135319014" ref="blog:index:member:news:project:group-schedule:gallery:publication"/>
+    <file name="blog.css" crc="4236704188" ref="blog"/>
+    <file name="nomq_blog.css" crc="3792239820" ref="blog"/>
+    <file name="iefonts_blog.css" crc="3824530138" ref="blog"/>
+    <file name="index.css" crc="3771660185" ref="index"/>
+    <file name="nomq_index.css" crc="38799155" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="member.css" crc="49875254" ref="member"/>
+    <file name="nomq_member.css" crc="380474265" ref="member"/>
+    <file name="iefonts_member.css" crc="3824530138" ref="member"/>
+    <file name="news.css" crc="226112378" ref="news"/>
+    <file name="nomq_news.css" crc="451442973" ref="news"/>
+    <file name="iefonts_news.css" crc="3824530138" ref="news"/>
+    <file name="project.css" crc="4154178146" ref="project"/>
+    <file name="nomq_project.css" crc="3883072311" ref="project"/>
+    <file name="iefonts_project.css" crc="3824530138" ref="project"/>
+    <file name="group-schedule.css" crc="461677470" ref="group-schedule"/>
+    <file name="nomq_group-schedule.css" crc="315642274" ref="group-schedule"/>
+    <file name="iefonts_group-schedule.css" crc="3824530138" ref="group-schedule"/>
+    <file name="gallery.css" crc="4284061616" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="505250115" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="3824530138" ref="gallery"/>
+    <file name="publication.css" crc="57601633" ref="publication"/>
+    <file name="nomq_publication.css" crc="236232668" ref="publication"/>
+    <file name="iefonts_publication.css" crc="3824530138" ref="publication"/>
+  </folder>
+  <folder name="fonts">
+    <file name="et-line.woff" crc="3758689988"/>
+    <file name="et-line.eot" crc="3932358893"/>
+    <file name="et-line.svg" crc="479007951"/>
+  </folder>
+  <folder name="assets">
+    <file name="video-bg.jpg" crc="3924162362" seo="true" mt="1437989658000"/>
+    <file name="video-bg.mp4" crc="449855299" seo="true" mt="1437989698000"/>
+    <file name="video-bg.ogv" crc="268293716" seo="true" mt="1437989848000"/>
+    <file name="video-bg.webm" crc="3888633905" seo="true" mt="1437989982000"/>
+    <file name="1920-840.png" crc="108268724" seo="true" mt="1513704582000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="museutils.js" crc="4216313831" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="whatinput.js" crc="86476730" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:member:project:publication:group-schedule:news:blog"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="webpro.js" crc="4143865194" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u46618.php" crc="3984064968" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:member"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="require.js" crc="3951022091" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="338120113" ref="index"/>
+    <file name="heading.png" crc="4082331965" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo large.png" crc="39988692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-27817x26.svg" crc="311180663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 27817x26_poster_.png" crc="4255768178" ref="index"/>
+    <file name="project2.png" crc="3893159925" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="project1.png" crc="515343233" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-190226x118.svg" crc="3764906157" seo="true" ref="index:project">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="pasted svg 190226x118_poster_.png" crc="50214739" ref="index"/>
+    <file name="pasted-svg-160318x118.svg" crc="4056799384" seo="true" ref="index:news">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="pasted svg 160318x118_poster_.png" crc="507379292" ref="index"/>
+    <file name="untitled-4-01.jpg" crc="204431648" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:member:project:publication:group-schedule:news:gallery:blog"/>
+    <file name="logo.png" crc="3782518440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-257402x192.svg" crc="3948010719" seo="true" ref="index:group-schedule">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="group-schedule" alt=""/>
+      <caption webpage="group-schedule" alt=""/>
+      <caption webpage="group-schedule" alt=""/>
+      <caption webpage="group-schedule" alt=""/>
+      <caption webpage="group-schedule" alt=""/>
+    </file>
+    <file name="pasted svg 257402x192_poster_.png" crc="4083609594" ref="index"/>
+    <file name="untitled-4-01-u1356-fr.jpg" crc="389437425" ref="index"/>
+    <file name="untitled-4-01-u1356-fr2.jpg" crc="20177390" ref="index"/>
+    <file name="untitled-3.png" crc="76846676" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-hover.svg" crc="3821673630" ref="index"/>
+    <file name="menu-hover_poster_u40281.png" crc="191114630" ref="index"/>
+    <file name="close.svg" crc="280867310" ref="index"/>
+    <file name="close_poster_u40273.png" crc="205350341" ref="index"/>
+    <file name="close-hover.svg" crc="4155317684" ref="index"/>
+    <file name="close-hover_poster_u40265.png" crc="3804147184" ref="index"/>
+    <file name="untitled-4-01-u1356-fr3.jpg" crc="525518149" ref="index"/>
+    <file name="untitled-4-01-u1356-fr4.jpg" crc="4062290229" ref="index"/>
+    <file name="helloquence-61189-unsplash.jpg" crc="3785633459" ref="member">
+      <caption webpage="member" alt=""/>
+    </file>
+    <file name="untitled-5.jpg" crc="482492591" ref="member">
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+    </file>
+    <file name="pasted-svg-237593x118.svg" crc="4246905645" seo="true" ref="member">
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+    </file>
+    <file name="pasted svg 237593x118_poster_.png" crc="3954823076" ref="member"/>
+    <file name="profile-1.png" crc="4100479269" ref="member">
+      <caption webpage="member" alt=""/>
+    </file>
+    <file name="saikat.jpg" crc="231077422" ref="member">
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+      <caption webpage="member" alt=""/>
+    </file>
+    <file name="helloquence-61189-unsplash-u41888-fr.jpg" crc="4076558095" ref="member"/>
+    <file name="helloquence-61189-unsplash-u41888-fr2.jpg" crc="3765298562" ref="member"/>
+    <file name="untitled-5-u4153-fr.jpg" crc="123086357" ref="member"/>
+    <file name="helloquence-61189-unsplash-u41888-fr3.jpg" crc="4030752413" ref="member"/>
+    <file name="saikat-u4895-fr.jpg" crc="505989171" ref="member"/>
+    <file name="helloquence-61189-unsplash-u41888-fr4.jpg" crc="3901192383" ref="member"/>
+    <file name="untitled-5-u4153-fr2.jpg" crc="3830393278" ref="member"/>
+    <file name="artem-sapegin-176819-unsplash (1) copy.jpg" crc="516484313" ref="project">
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="screen shot 2019-01-02 at 153209.png" crc="4179208422" ref="project:blog">
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="fabian-grohs-448419-unsplash.jpg" crc="3831496507" ref="project:blog">
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="screen shot 2019-04-04 at 230346.png" crc="3877925559" ref="project:blog">
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="screen shot 2019-04-04 at 230356.png" crc="221072307" ref="project:blog">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="markus-spiske-153537-unsplash.jpg" crc="3782955845" ref="project:blog">
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="thomas-kvistholt-191153-unsplash (1).jpg" crc="374018883" ref="project:blog">
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="sharon-pittaway-562622-unsplash.jpg" crc="21632726" ref="project:blog">
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="artem-sapegin-176819-unsplash (1) copy-u43346-fr.jpg" crc="3846610788" ref="project"/>
+    <file name="artem-sapegin-176819-unsplash (1) copy-u43346-fr2.jpg" crc="4207366420" ref="project"/>
+    <file name="thomas-kvistholt-191153-unsplash (1)-u42301-3-fr.jpg" crc="3954923536" ref="project:blog"/>
+    <file name="markus-spiske-153537-unsplash-u42307-fr.jpg" crc="3961004490" ref="project:blog"/>
+    <file name="sharon-pittaway-562622-unsplash-u42295-3-fr.jpg" crc="64398009" ref="project:blog"/>
+    <file name="fabian-grohs-448419-unsplash-u43243-3-fr.jpg" crc="226489644" ref="project:blog"/>
+    <file name="artem-sapegin-176819-unsplash (1) copy-u43346-fr3.jpg" crc="3770311822" ref="project"/>
+    <file name="markus-spiske-153537-unsplash-u42307-fr2.jpg" crc="3775488818" ref="project"/>
+    <file name="thomas-kvistholt-191153-unsplash (1)-u42301-3-fr2.jpg" crc="4056345577" ref="project"/>
+    <file name="sharon-pittaway-562622-unsplash-u42295-3-fr2.jpg" crc="498185631" ref="project"/>
+    <file name="fabian-grohs-448419-unsplash-u43243-3-fr2.jpg" crc="188480180" ref="project"/>
+    <file name="publication.jpg" crc="70728175" ref="publication">
+      <caption webpage="publication" alt=""/>
+    </file>
+    <file name="pasted-svg-314152x118.svg" crc="148363387" seo="true" ref="publication">
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+    </file>
+    <file name="pasted svg 314152x118_poster_.png" crc="169854413" ref="publication"/>
+    <file name="publication-u16718-fr.jpg" crc="3890642006" ref="publication"/>
+    <file name="publication-u16718-fr2.jpg" crc="4085193323" ref="publication"/>
+    <file name="publication-u16718-fr3.jpg" crc="170762976" ref="publication"/>
+    <file name="screen shot 2019-04-11 at 213406.png" crc="3771285976" ref="group-schedule">
+      <caption webpage="group-schedule" alt=""/>
+    </file>
+    <file name="screen shot 2019-04-11 at 213406-u44064-fr.png" crc="4251045706" ref="group-schedule"/>
+    <file name="thomas-charters-296769-unsplash.jpg" crc="3890620811" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="thomas-charters-296769-unsplash-u50256-fr.jpg" crc="3905758004" ref="news"/>
+    <file name="thomas-charters-296769-unsplash-u50256-fr2.jpg" crc="4048564424" ref="news"/>
+    <file name="thomas-charters-296769-unsplash-u50256-fr3.jpg" crc="414294920" ref="news"/>
+    <file name="thomas-charters-296769-unsplash-u50256-fr4.jpg" crc="4274642423" ref="news"/>
+    <file name="artem-sapegin-176819-unsplash (1) copy2.jpg" crc="368922261" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="helloquence-61189-unsplash2.jpg" crc="180808343" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="intl-fp@2x-crop-u53813.png" crc="4132902176" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy.jpg" crc="75458814" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1023775360_d37c35a292_b copy.jpg" crc="186164007" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="artem-sapegin-176819-unsplash (1) copy-crop-u50610.png" crc="528118292" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="helloquence-61189-unsplash-crop-u53767.png" crc="3996371871" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="intl-fp@2x-crop-u53831.png" crc="4109530119" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy170x127.jpg" crc="216398903" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1023775360_d37c35a292_b copy-crop-u53959.png" crc="193574386" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="intl-fp@2x.jpg" crc="402545669" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="artem-sapegin-176819-unsplash (1) copy143x96.jpg" crc="456779497" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="helloquence-61189-unsplash143x96.jpg" crc="3823998926" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="intl-fp@2x177x90.jpg" crc="529712554" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy143x108.jpg" crc="247546283" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1023775360_d37c35a292_b copy143x96.jpg" crc="3840931436" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="artem-sapegin-176819-unsplash (1) copy-crop-u506102.png" crc="46924336" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="helloquence-61189-unsplash-crop-u537672.png" crc="1919265" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="intl-fp@2x-crop-u538312.png" crc="267322322" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy-crop-u53895.png" crc="3968627811" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1023775360_d37c35a292_b copy-crop-u539592.png" crc="170721920" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="artem-sapegin-176819-unsplash (1) copy600x400.jpg" crc="3872435938" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="helloquence-61189-unsplash600x401.jpg" crc="4219081731" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="intl-fp@2x706x360.jpg" crc="4134651560" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy600x450.jpg" crc="369772392" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1023775360_d37c35a292_b copy600x400.jpg" crc="326204835" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="artem-sapegin-176819-unsplash (1) copy68x45.jpg" crc="3794563174" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="helloquence-61189-unsplash68x45.jpg" crc="4257228478" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="intl-fp@2x-crop-u538313.png" crc="3793903732" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy60x45.jpg" crc="3967971887" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1023775360_d37c35a292_b copy68x45.jpg" crc="4240120975" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="artem-sapegin-176819-unsplash (1) copy-crop-u50601.png" crc="3907721266" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="helloquence-61189-unsplash-crop-u53749.png" crc="25213060" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="intl-fp@2x-crop-u538132.png" crc="166556990" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy-crop-u53877.png" crc="153961459" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1023775360_d37c35a292_b copy-crop-u53941.png" crc="4035862188" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="intl-fp@2x-crop-u538314.png" crc="3793903732" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pasted-svg-126058x118.svg" crc="410692175" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 126058x118_poster_.png" crc="3820240864" ref="blog"/>
+    <file name="you-x-ventures-1439462-unsplash.jpg" crc="419438047" ref="blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="markus-spiske-153537-unsplash-u52884-fr.jpg" crc="124510238" ref="blog"/>
+    <file name="thomas-kvistholt-191153-unsplash (1)-u52898-3-fr.jpg" crc="23027070" ref="blog"/>
+    <file name="sharon-pittaway-562622-unsplash-u52902-3-fr.jpg" crc="432555041" ref="blog"/>
+    <file name="fabian-grohs-448419-unsplash-u52864-3-fr.jpg" crc="15389468" ref="blog"/>
+    <file name="you-x-ventures-1439462-unsplash-u52874-3-fr.jpg" crc="145186433" ref="blog"/>
+    <file name="markus-spiske-153537-unsplash-u52884-fr2.jpg" crc="403386465" ref="blog"/>
+    <file name="thomas-kvistholt-191153-unsplash (1)-u52898-3-fr2.jpg" crc="178420595" ref="blog"/>
+    <file name="sharon-pittaway-562622-unsplash-u52902-3-fr2.jpg" crc="3979811882" ref="blog"/>
+    <file name="fabian-grohs-448419-unsplash-u52864-3-fr2.jpg" crc="4023886375" ref="blog"/>
+    <file name="you-x-ventures-1439462-unsplash-u52874-3-fr2.jpg" crc="111779964" ref="blog"/>
+    <file name="you-x-ventures-1439462-unsplash-u52874-3-fr3.jpg" crc="79879210" ref="blog"/>
+    <file name="thomas-kvistholt-191153-unsplash (1)-u52898-3-fr3.jpg" crc="4089808505" ref="blog"/>
+    <file name="sharon-pittaway-562622-unsplash-u52902-3-fr3.jpg" crc="3857740750" ref="blog"/>
+    <file name="heading-u40500-fr.png" crc="301857478" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4010567303" seo="true" mt="1561055327898" redirect="true"/>
+  <file name="member.html" crc="297119643" seo="true" mt="1561054663652" redirect="true"/>
+  <file name="project.html" crc="492299358" seo="true" mt="1561054663652" redirect="true"/>
+  <file name="publication.html" crc="4217474277" seo="true" mt="1561054663652" redirect="true"/>
+  <file name="group-schedule.html" crc="3922720019" seo="true" mt="1561054663652" redirect="true"/>
+  <file name="news.html" crc="53160497" seo="true" mt="1561054663652" redirect="true"/>
+  <file name="gallery.html" crc="4128653691" seo="true" mt="1561054663652" redirect="true"/>
+  <file name="blog.html" crc="3885363867" seo="true" mt="1561054663652" redirect="true"/>
+</manifest>
